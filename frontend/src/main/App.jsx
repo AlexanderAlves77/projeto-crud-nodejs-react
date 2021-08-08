@@ -11,6 +11,6 @@ export default props => (
     <Logo />
     <Nav />
     <Main />
-    <Main />
+    <Footer />
   </div>
 )
