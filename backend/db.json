@@ -2,18 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Kelvin Gustavo",
+      "name": "Kelvin Gustavo ",
       "email": "kelvin@gmail.com"
     },
     {
       "id": 2,
       "name": "Sara Katherine",
       "email": "sara@gmail.com"
-    },
-    {
-      "name": "Alexander Alves",
-      "email": "alex@gmail.com",
-      "id": 3
     }
   ]
 }
